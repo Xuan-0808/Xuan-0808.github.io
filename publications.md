@@ -18,3 +18,10 @@ title: Publications
 - A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang*, **Xuan Li***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Provisionally accepted)
 
 - The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Accepted)
+
+# Conference Paper and Graduation thesis
+- Classification of Depression on Weibo Based on Convolutional Neural Network<br>Zihan Zhao, **Xuan Li**, Jing Zhou<br>the 18th National Symposium of Statistics Research in China
+
+- Heterogeneous Cox proportional risk model for identifying subgroup structures in high-dimensional data<br>**Xuan Li**, Xinyan Fan, Yifan Sun<br>2021 Outstanding undergraduate graduation thesis of Beijing (Top 1%)
+
+- Meta analysis process optimization based on text mining technology<br>**Xuan Li**, Yang Li<br>2021 Outstanding undergraduate graduation thesis of Renmin University of China (Top 5%)
