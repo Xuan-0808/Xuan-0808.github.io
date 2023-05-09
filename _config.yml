@@ -2,21 +2,16 @@ title: Xuan Li
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: Xuan-0808.github.io
 
 # Owner/author information
 owner:
   name: Hanlin Cai
   avatar: hanlin.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: lx705772676@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
   scholar: https://scholar.google.com/citations?user=VfVMji4AAAAJ&hl=zh-CN
-  # E-mail: lx705772676@163.com
 
 # Links to include in top navigation
 # For external links add external: true
@@ -70,5 +65,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/05/09 by Xuan Li.
+# URL: Xuan-0808.github.io
