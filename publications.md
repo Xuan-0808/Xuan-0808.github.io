@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+## Publications
 
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
 <br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>*JMIR public health and surveillance*<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
@@ -13,13 +13,13 @@ title: Publications
 
 - Epidemiology, clinical features, and outcomes of multisystem inflammatory syndrome in children (MIS-C) and adolescents—a live systematic review and meta-analysis<br>Li Jiang, Kun Tang, Omar Irfan, **Xuan Li**, Enyao Zhang, Zulfiqar Bhutta<br>*Current Pediatrics Reports*<br>[[Full text]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/)[[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/pdf/40124_2022_Article_264.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/35540721/)
 
-# Under Review
+## Under Review
 
 - A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang*, **Xuan Li***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Provisionally accepted)
 
 - The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Accepted)
 
-# Conference Paper and Graduation thesis
+## Conference Paper and Graduation thesis
 - Classification of Depression on Weibo Based on Convolutional Neural Network<br>Zihan Zhao, **Xuan Li**, Jing Zhou<br>the 18th National Symposium of Statistics Research in China
 
 - Heterogeneous Cox proportional risk model for identifying subgroup structures in high-dimensional data<br>**Xuan Li**, Xinyan Fan, Yifan Sun<br>2021 Outstanding undergraduate graduation thesis of Beijing (Top 1%)
