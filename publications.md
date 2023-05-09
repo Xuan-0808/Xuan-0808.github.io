@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-## Conference Paper
+<img src="https://i.postimg.cc/c1ccHysW/41162-716809-1-SP.png" class="floatpic" wdith="50">
 
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
 <br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>JMIR public health and surveillance<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
