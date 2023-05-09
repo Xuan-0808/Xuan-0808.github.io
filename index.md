@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">
 
