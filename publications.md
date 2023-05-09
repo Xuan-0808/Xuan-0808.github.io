@@ -6,15 +6,15 @@ title: Publications
 
 # Publications
 
-<img src="https://i.postimg.cc/c1ccHysW/41162-716809-1-SP.png" class="floatpic" wdith="50">
-
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
-<br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>JMIR public health and surveillance<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
+<br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>*JMIR public health and surveillance*<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
 
+- A global view of hypertensive disorders and diabetes mellitus during pregnancy<br>Li Jiang, Kun Tang, Laura A Magee, Peter von Dadelszen, Alec Ekeroma, **Xuan Li**, Enyao Zhang, Zulfiqar A Bhutta<br>*Nature Reviews Endocrinology*<br>[[Full text]](https://www.nature.com/articles/s41574-022-00734-y)[[PDF]](https://www.nature.com/articles/s41574-022-00734-y.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36109676/)
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- Epidemiology, clinical features, and outcomes of multisystem inflammatory syndrome in children (MIS-C) and adolescents—a live systematic review and meta-analysis<br>Li Jiang, Kun Tang, Omar Irfan, **Xuan Li**, Enyao Zhang, Zulfiqar Bhutta<br>*Current Pediatrics Reports*<br>[[Full text]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/)[[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/pdf/40124_2022_Article_264.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/35540721/)
 
-## Working Paper
+# Under Review
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf) (Competition paper for 2023 MCM Contest)
+- A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang*, **Xuan Li***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Provisionally accepted)
+
+- The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Accepted)
