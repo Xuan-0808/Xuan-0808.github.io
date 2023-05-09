@@ -1,4 +1,4 @@
-title: Hanlin Cai
+title: Xuan Li
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -15,19 +15,8 @@ owner:
   # facebook: caihanlin2002
   github: GuangLun2000
   linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
-
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
+  scholar: https://scholar.google.com/citations?user=VfVMji4AAAAJ&hl=zh-CN
+  # E-mail: lx705772676@163.com
 
 # Links to include in top navigation
 # For external links add external: true
