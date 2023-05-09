@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic">
+<img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">
 
 Here is **Xuan Li (李璇)**.
 
