@@ -22,6 +22,6 @@ title: Publications
 ## Conference Paper and Graduation thesis
 - Classification of Depression on Weibo Based on Convolutional Neural Network<br>Zihan Zhao, **Xuan Li**, Jing Zhou<br>the 18th National Symposium of Statistics Research in China
 
-- Heterogeneous Cox proportional risk model for identifying subgroup structures in high-dimensional data<br>**Xuan Li**, Xinyan Fan, Yifan Sun<br>2021 Outstanding undergraduate graduation thesis of Beijing (Top 1%)
+- Heterogeneous Cox proportional risk model for identifying subgroup structures in high-dimensional data<br>**Xuan Li**, Xinyan Fan, Yifan Sun<br>2021 Outstanding Undergraduate Graduation Thesis of Beijing (Top 1%)
 
-- Meta analysis process optimization based on text mining technology<br>**Xuan Li**, Yang Li<br>2021 Outstanding undergraduate graduation thesis of Renmin University of China (Top 5%)
+- Meta analysis process optimization based on text mining technology<br>**Xuan Li**, Yang Li<br>2021 Outstanding Undergraduate Graduation Thesis of Renmin University of China (Top 5%)
