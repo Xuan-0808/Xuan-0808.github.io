@@ -17,10 +17,8 @@ title: Projects
 - Lead author of multi-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China"
 - Data collection and digital intervention in China
 
-
-
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/child.jpg" height=500>
 </center>
 <br>
 
