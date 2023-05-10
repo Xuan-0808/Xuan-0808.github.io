@@ -6,9 +6,18 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
+### Africa Research, Implementation Science, and Education (ARISE)
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+**Project overview:** Execute health education and digital interventions on adolescents on nutrition, sexual and reproductive health, mental and physical health, health services utilization and substance use in Sub-Saharan Africa, India, and China. [[Detailed information]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264839)
+
+**Principal investigator:** [Wafaie W. Fawzi](https://www.hsph.harvard.edu/profile/wafaie-w-fawzi/), Harvard university
+
+**My role:**
+
+- Lead author of multi-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China"
+- Data collection and digital intervention in China
+
+
 
 <center>
 <img src="/images/resnet-ahp.png">
