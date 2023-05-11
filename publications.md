@@ -15,7 +15,7 @@ title: Publications
 
 ## Under Review
 
-- A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang*, **Xuan Li***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Provisionally accepted)
+- A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang\*, **Xuan Li\***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Provisionally accepted)
 
 - The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Accepted)
 
