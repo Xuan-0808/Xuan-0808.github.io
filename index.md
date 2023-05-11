@@ -14,7 +14,7 @@ I am a master in **Public Health** at Tsinghua University (China) and was a bach
 
 My current research focuses on global health, maternal and child health, sexual and reproductive health, and health big data. 
 
-Health is a science of multi-disciplinary and practice-based. I deeply believed that "health in all, and all for health".
+Health is a science of multi-disciplinary and practice-based. I firmly hold that "health in all, and all for health".
 
 ## News and Updates
 
