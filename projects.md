@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+## Research Projects
 
 ### 1. Africa Research, Implementation Science, and Education (ARISE)
 
