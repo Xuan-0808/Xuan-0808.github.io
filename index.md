@@ -14,14 +14,10 @@ I am a master in **Public Health** at Tsinghua University (China) and was a bach
 
 My current research focuses on global health, maternal and child health, sexual and reproductive health, and health big data. 
 
-My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+Health is a science of multi-disciplinary and practice-based. I deeply believed that "health in all, and all for health".
 
 ## News and Updates
 
-- **I'm looking for a Research Intern/Assistance Position (From June to Sep).**
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published! Welcome to contribute!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the 2021-2022 China National Scholarship (top 1%).
-- **Jun 2022：**Online Research Intern at Cambridge Centre for the Integration of Science, Technology and Culture, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-
+- **May 2023:** I'm attending [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) nominated as an advisor of Chinese delegation.
+- **May 2023：** Happy to be nominated as the deputy secretary general for the [2023 National Case Competition of Public Health in China](https://mp.weixin.qq.com/s/-c0sqpGNthtxbJWvT_wUTw).
+- **Dec 2022：** Happy to be nominated for the 2021-2022 Wangdazhong President Scholarship in Tsinghua University (top 0.5%).
