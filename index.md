@@ -2,8 +2,8 @@
 layout: page
 ---
 
-## About Me
 <img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">
+## About Me
 <br>Here is **Xuan Li (李璇)**.<br>
 I am a master in **Public Health** at Tsinghua University (China) and was a bachelor in **Economic Statistics** at Renmin University of China. I am extremely fortunate to be advised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm).
 
