@@ -4,51 +4,32 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+# Social Work and Practice
 
-## Teaching & Workshops
+## [76th World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly), 2023.05
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+- **Advisor of Chinese Delegation**. 
+- Happy to share experience after the conference.
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+## Beijing Olympic Winter Games, 2021.12-2022.03
+- **Volunteer** in the COVID-19 Liaison Office.
+- Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
 
+## Baidu Intelligent medical Department, 2022.06-2022.08
 
+- **Intern** in Baidu (one of the biggest Internet companies in China).
+- Participate the design work and market research of a health digital product combining AI and ultrasound.
 
-## Swimming & Surfing
+## [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), 2022.09-2023.06
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
+- **Founder and the first chair**
+- **First** "Public Heatlh" platform for young people with interdisciplinary backgrounds in Tsinghua University.
+- Programs included social practice, enterprise visits, health communications, lectures and salons, and so on.
 
-## Past Hobbies
+## [Capital of Statistics](https://cosx.org/), 2018.05-present
+- **Secretary-general** of [“13th R Conference in China”](https://mp.weixin.qq.com/s/JgVI25RmlWL0qYhHWc9bfw), a national conference oriented with statistics and data science. 
+- Parallel sessions included medical health, biostatistics, social media, ecological environment, software tool, machine learning, and so on.
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+## Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
+- **Intern** 
+- Produce courses related to Big Data and Artificial Intelligence (mainly related to natural language processing).
