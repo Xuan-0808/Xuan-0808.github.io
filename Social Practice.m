@@ -4,8 +4,7 @@ permalink: /Social Practice/index.html
 title: Social Practice
 ---
 
-# Social Work and Practice
-<br>
+## Social Work and Practice
  
 ### 1. 76th World Health Assembly, 2023.05
 
