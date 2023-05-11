@@ -6,6 +6,8 @@ title: Social Practice
 
 # Social Work and Practice
 
+<br><br>
+ 
 ### 1. 76th World Health Assembly, 2023.05
 
 - **Advisor of Chinese Delegation** in [76th World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly). 
