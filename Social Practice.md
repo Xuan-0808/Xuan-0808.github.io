@@ -29,8 +29,7 @@ title: Social Practice
 
 ### 5. Capital of Statistics, 2018.05-present
 - **Core member** of [Capital of Statistics](https://cosx.org/), the biggest community of statistics and data science in China.
-- **Secretary-general** of [“13th R Conference in China”](https://mp.weixin.qq.com/s/JgVI25RmlWL0qYhHWc9bfw), a national conference oriented with statistics and data science. 
-- Parallel sessions included medical health, biostatistics, social media, ecological environment, software tool, machine learning, and so on.
+- **Secretary-general** of [“13th R Conference in China”](https://mp.weixin.qq.com/s/JgVI25RmlWL0qYhHWc9bfw), a national conference oriented with statistics and data science. Parallel sessions included medical health, biostatistics, social media, ecological environment, software tool, machine learning, and so on.
 
 ### 6. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
 - **Intern**.
