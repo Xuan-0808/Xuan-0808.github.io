@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /Social Practice/index.html
+title: Social Practice
 ---
 
 # Social Work and Practice
