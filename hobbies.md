@@ -6,30 +6,30 @@ title: Hobbies
 
 # Social Work and Practice
 
-## [76th World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly), 2023.05
+### [76th World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly), 2023.05
 
 - **Advisor of Chinese Delegation**. 
 - Happy to share experience after the conference.
 
-## Beijing Olympic Winter Games, 2021.12-2022.03
+### Beijing Olympic Winter Games, 2021.12-2022.03
 - **Volunteer** in the COVID-19 Liaison Office.
 - Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
 
-## Baidu Intelligent medical Department, 2022.06-2022.08
+### Baidu Intelligent medical Department, 2022.06-2022.08
 
 - **Intern** in Baidu (one of the biggest Internet companies in China).
 - Participate the design work and market research of a health digital product combining AI and ultrasound.
 
-## [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), 2022.09-2023.06
+### [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), 2022.09-2023.06
 
 - **Founder and the first chair**
 - **First** "Public Heatlh" platform for young people with interdisciplinary backgrounds in Tsinghua University.
 - Programs included social practice, enterprise visits, health communications, lectures and salons, and so on.
 
-## [Capital of Statistics](https://cosx.org/), 2018.05-present
+### [Capital of Statistics](https://cosx.org/), 2018.05-present
 - **Secretary-general** of [“13th R Conference in China”](https://mp.weixin.qq.com/s/JgVI25RmlWL0qYhHWc9bfw), a national conference oriented with statistics and data science. 
 - Parallel sessions included medical health, biostatistics, social media, ecological environment, software tool, machine learning, and so on.
 
-## Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
+### Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
 - **Intern** 
 - Produce courses related to Big Data and Artificial Intelligence (mainly related to natural language processing).
