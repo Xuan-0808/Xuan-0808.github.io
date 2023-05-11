@@ -25,4 +25,4 @@ Health is a science of multi-disciplinary and practice-based. I deeply believed 
 
 ## Contact Me
 
-Happy to have communication with you. Please contact me through e-mail: lx705772676@163.com
+Please contact me through e-mail: lx705772676@163.com.
