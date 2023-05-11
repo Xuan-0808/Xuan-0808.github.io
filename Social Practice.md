@@ -9,7 +9,6 @@ title: Social Practice
 ### 1. 76th World Health Assembly, 2023.05
 
 - **Advisor of Chinese Delegation** in [76th World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly). 
-- Happy to share experience after the conference.
 
 ### 2. Beijing Olympic Winter Games, 2021.12-2022.03
 - **Volunteer** in the COVID-19 Liaison Office.
