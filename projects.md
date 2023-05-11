@@ -74,7 +74,7 @@ title: Projects
 </div>
 <br>
 
-### Class: Applied Health Economics and Policy
+### Course teaching: Applied Health Economics and Policy
 
 - **Course instructor:** [Antonio Trujillo](https://publichealth.jhu.edu/faculty/2086/antonio-j-trujillo), Johns Hopkins University
 - **My role:**
