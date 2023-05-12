@@ -52,11 +52,11 @@ title: Projects
 </div>
 <br>
 
-### 4. Strategic Consulting on “One Health” for Asian Infrastructure Investment Bank
+### 4. Strategic Consulting on “One Health” for Asian Infrastructure Investment Bank (AIIB)
 
 **Principal investigator:** Erik Berglof, Chief Economist at AIIB; Abigail Wright, Senior Secretariat Officer at AIIB.<br>
 
-**Project overview:** To structure a scope of “One Health” investment among 6 multilateral development banks (MDBs), including World Bank (WB), European Bank for Reconstruction and Development (EBRD), Asian Development Bank(ADB), Islamic Development Bank (IsDB), Inter-American Development Bank (IADB), and Asian Infrastructure Investment Bank (AIIB).<br>
+**Project overview:** To structure a scope of “One Health” investment among 6 multilateral development banks (MDBs), including World Bank (WB), European Bank for Reconstruction and Development (EBRD), Asian Development Bank(ADB), Islamic Development Bank (IsDB), Inter-American Development Bank (IADB), and AIIB.<br>
 
 **My role:**
 - **Project core member (1/5)**;
