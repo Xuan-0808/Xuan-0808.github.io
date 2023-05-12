@@ -13,9 +13,9 @@ title: Projects
 **Project overview:** To establish a multi-country prospective cohort to execute health education and digital interventions on adolescents on nutrition, sexual and reproductive health, mental and physical health, health services utilization and substance use in eight Sub-Saharan African countries, India, and China. [[Detailed information]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264839)<br>
 
 **My role:**
-  - Lead author of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China";
-  - Execute digital interventions through massage texts and brochures to improve adolescent health in China;
-  - Collect prospective cohort data via fieldwork and.or electronic surveys in 7 rural schools in China.
+  - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China";
+  - Lead digital interventions through massage texts and brochures to improve adolescent health in China;
+  - Collect prospective cohort data via fieldwork and/or electronic surveys in 7 rural schools in China.
 
 <div align=center>
 <img src="/images/child.jpg" height=300>
@@ -29,7 +29,7 @@ title: Projects
 **Project overview:** To investigate the impacts of COVID-19 on children and adolescent health, especially complications and long-term effects through systematic reviews.<br>
 
 **My role:**
-- Research assistant and co-author;
+- **Research assistant and co-author**;
 - Literature screening, data extraction, and data analysis.
 
 <div align=center>
@@ -44,7 +44,7 @@ title: Projects
 **Project overview:** To understand how are health workforce cohorts being setup and maintained  globally.<br>
 
 **My role:**
-- Research assistant and co-author;
+- **Research assistant and co-author**;
 - Literature screening, data extraction, and data analysis.
 
 <div align=center>
@@ -59,7 +59,7 @@ title: Projects
 **Project overview:** To structure a scope of “One Health” investment among 6 multilateral development banks (MDBs), including World Bank (WB), European Bank for Reconstruction and Development (EBRD), Asian Development Bank(ADB), Islamic Development Bank (IsDB), Inter-American Development Bank (IADB), and Asian Infrastructure Investment Bank (AIIB).<br>
 
 **My role:**
-- Project core member (1/5);
+- **Project core member (1/5)**;
 - Develop the analysis framework, identify AIIB’s role in furthering the One Health approach as a broader health lens, synthesize takeaways from One Health policies and practices across MDBs into recommendations.
 
 <div align=center>
@@ -74,7 +74,7 @@ title: Projects
 **Project overview:** To better understand how and why countries have (or not) been able to sustain (or increase) effective coverage of health interventions previously funded by donors and the enablers and barriers to this. This project was launched by Alliance for Health Policy and Systems Research and World Health Organization. [[Detailed information]](https://globalhelse.no/articles/call-for-proposals-sustaining-effective-coverage-in-the-context-of-transition-from-external-assistance)<br>
 
 **My role:**
-- Research assistance;
+- **Research assistance**;
 - Collect quantitative and qualitative data, analyse the data using Policy Triangle Framework. 
 
 <div align=center>
@@ -82,12 +82,32 @@ title: Projects
 </div>
 <br>
 
-### Course teaching: Applied Health Economics and Policy
+### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
+
+**Principal investigator:** Xuan Li (Me)
+
+**Superviser:** [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm)
+
+**Funding:** RMB 20,000 (nominated as a national-level project in Renmin University of China)
+
+**Project overview:** To evaluate the efficiency of health education on aged population in 3 rural counties in Beijing.<br>
+
+**My role:**
+- **Project leader**;
+- Execute field work, survey, and interview;
+- Design the research framework, analyze the data, and present the final report. 
+
+<div align=center>
+<img src="/images/aging.jpg" height=300>
+</div>
+<br>
+
+### 7. Course Teaching: Applied Health Economics and Policy
 
 **Course instructor:** [Antonio Trujillo](https://publichealth.jhu.edu/faculty/2086/antonio-j-trujillo), Johns Hopkins University, US<br>
 
 **My role:**
-- Teaching assistance.
+- **Teaching assistance**.
 
 <div align=center>
 <img src="/images/health_economics.jpg" height=300>
