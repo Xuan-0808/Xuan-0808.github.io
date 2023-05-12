@@ -75,7 +75,7 @@ title: Projects
 ### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
 
 **Principal investigator:** Xuan Li (Me)<br>
-**Superviser:** [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm)<br>
+**Superviser:** [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm)<br>, Renmin University of China
 **Funding:** RMB 20,000 (nominated as a national-level project in Renmin University of China)<br>
 **Project overview:** To evaluate the efficiency of health education on aged population in 3 rural counties in Beijing.<br>
 **My role:**
