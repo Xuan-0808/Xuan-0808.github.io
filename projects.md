@@ -8,8 +8,10 @@ title: Projects
 
 ### 1. Africa Research, Implementation Science, and Education (ARISE)
 
-**Principal investigator:** [Wafaie W. Fawzi](https://www.hsph.harvard.edu/profile/wafaie-w-fawzi/), Harvard university, US.<br>
-**Project overview:** To establish a multi-country prospective cohort to execute health education and digital interventions on adolescents on nutrition, sexual and reproductive health, mental and physical health, health services utilization and substance use in eight Sub-Saharan African countries, India, and China. [[Detailed information]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264839)<br>
+**Principal investigator:** [Wafaie W. Fawzi](https://www.hsph.harvard.edu/profile/wafaie-w-fawzi/), Harvard university, US.
+<br>
+**Project overview:** To establish a multi-country prospective cohort to execute health education and digital interventions on adolescents on nutrition, sexual and reproductive health, mental and physical health, health services utilization and substance use in eight Sub-Saharan African countries, India, and China. [[Detailed information]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4264839)
+<br>
 **My role:**
   - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China";
   - Lead digital interventions through massage texts and brochures to improve adolescent health in China;
@@ -75,7 +77,7 @@ title: Projects
 ### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
 
 **Principal investigator:** Xuan Li (Me)<br>
-**Superviser:** [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm)<br>, Renmin University of China
+**Superviser:** [Yang Li](http://stat.ruc.edu.cn/jxtd/jsdw/swtjylxbxx/3e1b4fd7497145f78e7fb198e76247b6.htm)<br>, Renmin University of China<br>
 **Funding:** RMB 20,000 (nominated as a national-level project in Renmin University of China)<br>
 **Project overview:** To evaluate the efficiency of health education on aged population in 3 rural counties in Beijing.<br>
 **My role:**
