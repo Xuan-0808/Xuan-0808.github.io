@@ -98,7 +98,7 @@ title: Projects
 - Design the research framework, analyze the data, and present the final report. 
 
 <div align=center>
-<img src="/images/aging.jpg" height=300>
+<img src="/images/aging.jpeg" height=300>
 </div>
 <br>
 
