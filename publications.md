@@ -19,6 +19,8 @@ title: Publications
 
 - The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Accepted)
 
+- Predicting Pregnancy Termination with Key Factors Through Machine Learning Approaches: A Pooled Analysis of 51 Low- and Middle-Income Countries<br>**Xuan Li**, Qiwei He, Kun Tang<br>[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445182)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=321102020088080126080091103016099069053063020068087078105043108056112043023124122106089089053081007020027088103055070108091071093015006007068118003102106069006126087024061073047026053118006051010055048084020038013005105002100023117000086068090072090115019127125071089071024031026017097097017&EXT=pdf&INDEX=TRUE)
+
 ## Conference Paper and Graduation thesis
 - Classification of Depression on Weibo Based on Convolutional Neural Network<br>Zihan Zhao, **Xuan Li**, Jing Zhou<br>the 18th National Symposium of Statistics Research in China
 
