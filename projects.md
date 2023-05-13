@@ -65,7 +65,8 @@ title: Projects
 ### 5. Research Programme on Transition from External Financing - Analytical Framework to guide country teams
 
 **Principal investigator:** [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), Tsinghua University, China; [Yingxi Zhao](https://www.tropicalmedicine.ox.ac.uk/team/yingxi-zhao), Oxford university, UK.<br>
-**Project overview:** To better understand how and why countries have (or not) been able to sustain (or increase) effective coverage of health interventions previously funded by donors and the enablers and barriers to this. This project was launched by Alliance for Health Policy and Systems Research and World Health Organization. [[Detailed information]](https://globalhelse.no/articles/call-for-proposals-sustaining-effective-coverage-in-the-context-of-transition-from-external-assistance)<br>
+**Funding:** This project was funded by Alliance for Health Policy and Systems Research and World Health Organization. [[Detailed information]](https://globalhelse.no/articles/call-for-proposals-sustaining-effective-coverage-in-the-context-of-transition-from-external-assistance)<br>
+**Project overview:** To better understand how and why countries have (or not) been able to sustain (or increase) effective coverage of health interventions previously funded by donors and the enablers and barriers to this.<br>
 **My role:**
 - **Research assistance**;
 - Collect quantitative and qualitative data, analyze the data using Policy Triangle Framework. 
