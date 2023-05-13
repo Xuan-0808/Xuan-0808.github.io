@@ -68,7 +68,7 @@ title: Projects
 **Project overview:** To better understand how and why countries have (or not) been able to sustain (or increase) effective coverage of health interventions previously funded by donors and the enablers and barriers to this. This project was launched by Alliance for Health Policy and Systems Research and World Health Organization. [[Detailed information]](https://globalhelse.no/articles/call-for-proposals-sustaining-effective-coverage-in-the-context-of-transition-from-external-assistance)<br>
 **My role:**
 - **Research assistance**;
-- Collect quantitative and qualitative data, analyse the data using Policy Triangle Framework. 
+- Collect quantitative and qualitative data, analyze the data using Policy Triangle Framework. 
 
 <div align=center>
 <img src="/images/WHO.png" height=300>
