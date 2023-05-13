@@ -22,7 +22,7 @@ title: Social Practice
 ### 4. Tsinghua University Student Association of Public Health, 2022.09-2023.06
 
 - **Founder and the first chair** of [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw).
-- First "Public Heatlh" platform for young people with interdisciplinary backgrounds in Tsinghua University.
+- First "Public Health" platform for young people with interdisciplinary backgrounds in Tsinghua University.
 - Programs included social practice, enterprise visits, health communications, lectures and salons, and so on.
 
 ### 5. Capital of Statistics, 2018.05-present
