@@ -9,7 +9,7 @@ title: Publications
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
 <br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>*JMIR public health and surveillance*<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
 
-- The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research*<br>[[Medline]](https://pubmed.ncbi.nlm.nih.gov/37171864/)
+- The Effects of online health information-seeking behavior on sexually transmitted disease in China: infodemiology study of the internet search queries<br>**Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research*<br>[[Full text]](https://www.jmir.org/2023/1/e43046)[[PDF]](https://www.jmir.org/2023/1/e43046/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/37171864/)
 
 - A global view of hypertensive disorders and diabetes mellitus during pregnancy<br>Li Jiang, Kun Tang, Laura A Magee, Peter von Dadelszen, Alec Ekeroma, **Xuan Li**, Enyao Zhang, Zulfiqar A Bhutta<br>*Nature Reviews Endocrinology*<br>[[Full text]](https://www.nature.com/articles/s41574-022-00734-y)[[PDF]](https://www.nature.com/articles/s41574-022-00734-y.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36109676/)
 
