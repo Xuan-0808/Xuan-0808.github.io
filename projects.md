@@ -15,9 +15,8 @@ title: Projects
 
 <br>
 **My role:**
-  - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China";
-  - Lead digital interventions through massage texts and brochures to improve adolescent health in China;
-  - Collect prospective cohort data via fieldwork and/or electronic surveys in 7 rural schools in China.
+  - **Research assistant** to collect prospective cohort data and lead digital interventions in China;
+  - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China".
 
 <div align=center>
 <img src="/images/child.jpg" height=300>
