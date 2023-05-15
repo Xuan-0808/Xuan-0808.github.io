@@ -9,7 +9,7 @@ I am a master in **Public Health** at Tsinghua University (China) and was a bach
 
 ## Research Interests
 My current research focuses on global health, maternal and child health, sexual and reproductive health, and health big data. <br>
-Health is a science of multi-disciplinary and practice-based. I firmly hold that "health in all, and all for health".
+Health is a science of multi-disciplinary and practice-based. I firmly hold that "Health in all, and all for health".
 
 ## News and Updates
 - **May 2023:** I'm attending [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) nominated as the **advisor of Chinese delegation**.
