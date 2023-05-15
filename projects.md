@@ -19,7 +19,7 @@ title: Projects
   - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China".
 
 <div align=center>
-<img src="/images/child.jpg" height=300>
+<img src="/images/ARISE.png" height=300>
 </div>
 <br>
 
@@ -58,7 +58,7 @@ title: Projects
 - Develop the analysis framework, identify AIIB’s role in furthering the One Health approach as a broader health lens, synthesize takeaways from One Health policies and practices across MDBs into recommendations.
 
 <div align=center>
-<img src="/images/AIIB.jpg" height=300>
+<img src="/images/AIIB.png" height=300>
 </div>
 <br>
 
@@ -72,7 +72,7 @@ title: Projects
 - Collect quantitative and qualitative data, analyze the data using Policy Triangle Framework. 
 
 <div align=center>
-<img src="/images/WHO.png" height=300>
+<img src="/images/transition.png" height=300>
 </div>
 <br>
 
