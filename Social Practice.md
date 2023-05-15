@@ -17,9 +17,9 @@ title: Social Practice
 ### 2. Beijing Olympic Winter Games, 2021.12-2022.03
 
 <div class="third">
-<img src="/images/winter1.jpg"  height="200">
-<img src="/images/winter2.jpg"  height="200">
-<img src="/images/winter3.jpg"  height="200">
+<img src="/images/winter1.jpg">
+<img src="/images/winter2.jpg">
+<img src="/images/winter3.jpg">
 </div>
 <br>
 - **Volunteer** in the COVID-19 Liaison Office.
@@ -28,9 +28,9 @@ title: Social Practice
 ### 3. Baidu Intelligent medical Department, 2022.06-2022.08
 
 <div class="third">
-<img src="/images/baidu0.png"  height="200">
-<img src="/images/baidu1.png"  height="200">
-<img src="/images/baidu2.png"  height="200">
+<img src="/images/baidu0.png">
+<img src="/images/baidu1.png">
+<img src="/images/baidu2.png">
 </div>
 <br>
 - **Intern** in Baidu (one of the biggest Internet companies in China).
@@ -39,9 +39,9 @@ title: Social Practice
 ### 4. Tsinghua University Student Association of Public Health, 2022.09-2023.06
 
 <div class="third">
-<img src="/images/association1.png"  height="200">
-<img src="/images/case.jpg"  height="200">
-<img src="/images/lecture.jpg"  height="200">
+<img src="/images/association1.png">
+<img src="/images/case.jpg">
+<img src="/images/lecture.jpg">
 </div>
 <br>
 - **Founder and the first chair** of [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw).
@@ -51,9 +51,9 @@ title: Social Practice
 ### 5. Capital of Statistics, 2018.05-present
 
 <div class="third">
-<img src="/images/cos0.jpg"  height="200">
-<img src="/images/cos1.jpg"  height="200">
-<img src="/images/cos2.png"  height="200">
+<img src="/images/cos0.jpg">
+<img src="/images/cos1.jpg">
+<img src="/images/cos2.png">
 </div>
 <br>
 - **Core member** of [Capital of Statistics](https://cosx.org/), the biggest community of statistics and data science in China.
@@ -62,9 +62,9 @@ title: Social Practice
 ### 6. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
 
 <div class="third">
-<img src="/images/shixi1.png"  height="200">
-<img src="/images/shixi2.png"  height="200">
-<img src="/images/shixi3.png"  height="200">
+<img src="/images/shixi1.png">
+<img src="/images/shixi2.png">
+<img src="/images/shixi3.png">
 </div>
 <br>
 - **Intern**.
