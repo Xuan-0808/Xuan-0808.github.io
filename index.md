@@ -8,8 +8,9 @@ layout: page
 I am a master in **Public Health** at Tsinghua University (China) and was a bachelor in **Economic Statistics** at Renmin University of China. I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). Here is my [Resume](./file/CV_2pages.pdf).
 
 ## Research Interests
-My current research focuses on global health, maternal and child health, sexual and reproductive health, and health big data. <br>
-Health is a science of multi-disciplinary and practice-based. I firmly hold that "Health in all, and all for health".
+My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**. <br>
+
+<br>Health is a science of multi-disciplinary and practice-based. I firmly hold that "Health in all, and all for health".
 
 ## Awards and Scholarships
 
