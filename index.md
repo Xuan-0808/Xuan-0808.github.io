@@ -25,7 +25,7 @@ My current research focuses on **global health**, **maternal and child health**,
 <img src="/images/WHA.PNG" height=100>
 </div>
 <br>
-**2023/05:** Happy to be nominated as the **deputy secretary general** for the [2023 National Case Competition of Public Health in China](https://mp.weixin.qq.com/s/-c0sqpGNthtxbJWvT_wUTw).The chairman and the secretary general are composed of [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), [Wannian Liang](https://vsph.tsinghua.edu.cn/en/info/1010/1048.htm), and [Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm).
+**2023/05:** Happy to be nominated as the **deputy secretary general** for the [2023 National Case Competition of Public Health in China](https://mp.weixin.qq.com/s/-c0sqpGNthtxbJWvT_wUTw). The chairman and the secretary general are composed of [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), [Wannian Liang](https://vsph.tsinghua.edu.cn/en/info/1010/1048.htm), and [Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm).
 <div align=center>
 <img src="/images/case.jpg" height=100>
 </div>
