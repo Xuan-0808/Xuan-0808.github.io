@@ -29,7 +29,7 @@ title: Social Practice
 
 <div class="third">
 <img src="/images/baidu0.png">
-<img src="/images/baidu1.png">
+<img src="/images/baidu1.jpg">
 <img src="/images/baidu2.png">
 </div>
 <br>
