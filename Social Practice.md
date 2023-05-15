@@ -16,21 +16,17 @@ title: Social Practice
 
 ### 2. Beijing Olympic Winter Games, 2021.12-2022.03
 
-<figure>
-<img src="/images/winter1.jpg">
-<img src="/images/winter2.jpg">
-<img src="/images/winter3.jpg">
-</figure>
+<div align=center>
+<img src="/images/winter.png"  height="200">
+</div>
 <br>
 - **Volunteer** in the COVID-19 Liaison Office.
 - Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
 
 ### 3. Baidu Intelligent medical Department, 2022.06-2022.08
 
-<div class="third">
-<img src="/images/baidu0.jpg">
-<img src="/images/baidu1.png">
-<img src="/images/baidu2.png">
+<div align=center>
+<img src="/images/baidu.png"  height="200">
 </div>
 <br>
 - **Intern** in Baidu (one of the biggest Internet companies in China).
@@ -38,33 +34,35 @@ title: Social Practice
 
 ### 4. Tsinghua University Student Association of Public Health, 2022.09-2023.06
 
-<div class="third">
-<img src="/images/association1.png">
-<img src="/images/case.jpg">
-<img src="/images/lecture.jpg">
+<div align=center>
+<img src="/images/association_final.png"  height="200">
 </div>
 <br>
 - **Founder and the first chair** of [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw).
 - First "Public Health" platform for young people with interdisciplinary backgrounds in Tsinghua University.
-- Programs included social practice, enterprise visits, health communications, lectures and salons, and so on.
+- Lecturers and instructors included 
 
-### 5. Capital of Statistics, 2018.05-present
+### 5. Global Health Deep Dive by Gates Foundation, 2022.4
 
-<div class="third">
-<img src="/images/cos0.png">
-<img src="/images/cos1.jpg">
-<img src="/images/cos2.png">
+<div align=center>
+<img src="/images/Gates.png"  height="200">
+</div>
+<br>
+- On behalf of Tsinghua students to participate in "Global Health" comminations with Bill Gates, public health professors, and around 30 postgraduates around the world.
+
+### 6. Capital of Statistics, 2018.05-present
+
+<div align=center>
+<img src="/images/cos.png"  height="200">
 </div>
 <br>
 - **Core member** of [Capital of Statistics](https://cosx.org/), the biggest community of statistics and data science in China.
 - **Secretary-general** of [“13th R Conference in China”](https://mp.weixin.qq.com/s/JgVI25RmlWL0qYhHWc9bfw), a national conference oriented with statistics and data science. Parallel sessions included medical health, biostatistics, social media, ecological environment, software tool, machine learning, and so on.
 
-### 6. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
+### 7. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
 
-<div class="third">
-<img src="/images/shixi1.png">
-<img src="/images/shixi2.png">
-<img src="/images/shixi3.png">
+<div align=center>
+<img src="/images/shixi.png"  height="200">
 </div>
 <br>
 - **Intern**.
