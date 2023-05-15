@@ -16,11 +16,11 @@ title: Social Practice
 
 ### 2. Beijing Olympic Winter Games, 2021.12-2022.03
 
-<div class="third">
+<figure>
 <img src="/images/winter1.jpg">
 <img src="/images/winter2.jpg">
 <img src="/images/winter3.jpg">
-</div>
+</figure>
 <br>
 - **Volunteer** in the COVID-19 Liaison Office.
 - Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
