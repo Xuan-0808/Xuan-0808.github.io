@@ -13,10 +13,25 @@ Health is a science of multi-disciplinary and practice-based. I firmly hold that
 
 ## News and Updates
 - **May 2023:** I'm attending [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) nominated as the **advisor of Chinese delegation**.
-<img src="./images/WHA.png" class="floatpic">
+<div align=center>
+<img src="/images/WHA.PNG" height=300>
+</div>
+<br>
 - **May 2023:** Happy to be nominated as the **deputy secretary general** for the [2023 National Case Competition of Public Health in China](https://mp.weixin.qq.com/s/-c0sqpGNthtxbJWvT_wUTw).
+<div align=center>
+<img src="/images/case.jpg" height=300>
+</div>
+<br>
 - **Dec 2022:** Happy to be nominated for the 2021-2022 **Wangdazhong President Scholarship** in Tsinghua University (top 0.5%).
+<div align=center>
+<img src="/images/award.jpg" height=300>
+</div>
+<br>
 - **Sep 2022:** I initiated the [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), the first "public health" related student association in Tsinghua University. I was nominated as the **first-year chair**.
+<div align=center>
+<img src="/images/Association.png" height=300>
+</div>
+<br>
 
 ## Contact Me
 
