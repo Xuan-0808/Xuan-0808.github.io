@@ -39,7 +39,7 @@ title: Social Practice
 ### 4. Tsinghua University Student Association of Public Health, 2022.09-2023.06
 
 <div class="third">
-<img src="/images/Healthholder.png">
+<img src="/images/association1.png">
 <img src="/images/case.jpg">
 <img src="/images/lecture.jpg">
 </div>
