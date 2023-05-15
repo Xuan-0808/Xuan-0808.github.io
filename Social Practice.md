@@ -28,8 +28,8 @@ title: Social Practice
 ### 3. Baidu Intelligent medical Department, 2022.06-2022.08
 
 <div class="third">
-<img src="/images/baidu0.png">
-<img src="/images/baidu1.jpg">
+<img src="/images/baidu0.jpg">
+<img src="/images/baidu1.png">
 <img src="/images/baidu2.png">
 </div>
 <br>
@@ -51,7 +51,7 @@ title: Social Practice
 ### 5. Capital of Statistics, 2018.05-present
 
 <div class="third">
-<img src="/images/cos0.jpg">
+<img src="/images/cos0.png">
 <img src="/images/cos1.jpg">
 <img src="/images/cos2.png">
 </div>
