@@ -57,6 +57,6 @@ title: Social Practice
 - **Intern**.
 - Produce courses related to Big Data and Artificial Intelligence (mainly related to natural language processing).
 <div align=center>
-<img src="/images/cos.png"  height="200">
+<img src="/images/shixi.png"  height="200">
 </div>
 <br>
