@@ -11,6 +11,13 @@ I am a master in **Public Health** at Tsinghua University (China) and was a bach
 My current research focuses on global health, maternal and child health, sexual and reproductive health, and health big data. <br>
 Health is a science of multi-disciplinary and practice-based. I firmly hold that "Health in all, and all for health".
 
+## Awards and Scholarships
+
+- Dec 2022: Wangdazhong President Scholarship (Top 0.5%, one of the highest awards in Tsinghua University).
+- Dec 2022: First-class Scholarship for Comprehensive Excellence of Tsinghua University (Top 5%).
+- Jun 2021: Outstanding Undergraduate Graduation Thesis of Beijing (Top 1%).
+- Sep 2020: First Class Scholarship for Academic study of Renmin University of China (Top 5%).
+
 ## News and Updates
 **May 2023:** I'm attending [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) nominated as the **advisor of Chinese delegation**.
 <div align=center>
