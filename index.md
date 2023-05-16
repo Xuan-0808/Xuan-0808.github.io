@@ -5,7 +5,7 @@ layout: page
 <!--<img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">-->
 ## About Me
 <br>Here is **Xuan Li (李璇)**.<br>
-I am a master in **Public Health** at **Tsinghua University** and was a bachelor in **Economic Statistics** at **Renmin University of China**. I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). Here is my [Resume](./file/CV_2pages.pdf).
+I am a master in **Public Health** at **Tsinghua University** (2021.09-2024.06) and was a bachelor in **Economic Statistics** at **Renmin University of China** (2017.09-2021.06). I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). Here is my [Resume](./file/CV_2pages.pdf).
 <div align=center>
 <img src="/images/Schools.png" height=100>
 </div>
