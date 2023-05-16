@@ -4,6 +4,8 @@ permalink: /projects/index.html
 title: Research Projects
 ---
 
+## Research Projects
+
 ### 1. Africa Research, Implementation Science, and Education (ARISE)
 
 **Principal investigator:** [Wafaie W. Fawzi](https://www.hsph.harvard.edu/profile/wafaie-w-fawzi/), Harvard university, US.
