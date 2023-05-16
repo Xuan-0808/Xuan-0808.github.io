@@ -5,16 +5,14 @@ layout: page
 <!--<img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">-->
 ## About Me
 <br>Here is **Xuan Li (李璇)**.<br>
-I am a master in **Public Health** at **Tsinghua University** (2021.09-2024.06) and was a bachelor in **Economic Statistics** at **Renmin University of China** (2017.09-2021.06). I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). Here is my [Resume](./file/CV_2pages.pdf).
+I am a master in [Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06). [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), Emeritus Director General of World Health Organization, is the Founding Dean of our school since 2020.<br> Before, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).<br>Here is my [Resume](./file/CV_2pages.pdf).
 <div align=center>
 <img src="/images/Schools.png" height=100>
 </div>
 <br>
 
 ## Research Interests
-My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**. <br>
-
-<br>Health is a science of multi-disciplinary and practice-based. I firmly hold that "Health in all, and all for health".
+I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
 
 ## Awards and Scholarships
 
