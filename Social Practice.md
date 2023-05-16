@@ -38,7 +38,7 @@ title: Social Practice
 </div>
 <br>
 
-### 5. Global Health Deep Dive by Gates Foundation, 2022.4
+### 5. Global Health Deep Dive by Gates Foundation, 2022.04
 - On behalf of Tsinghua students to participate in "Global Health" comminations with Bill Gates, public health professors, and around 30 postgraduates around the world.
 <div align=center>
 <img src="/images/Gates.png"  height="200">
