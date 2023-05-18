@@ -37,12 +37,12 @@ I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.ed
 <br>
 **2023/05:** Happy to be nominated as the **deputy secretary general** for the [2023 National Case Competition of Public Health in China](https://vsph.tsinghua.edu.cn/info/1004/2176.htm). The chairman and the secretary general are composed of [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), [Wannian Liang](https://vsph.tsinghua.edu.cn/en/info/1010/1048.htm), and [Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm).
 <div align=center>
-<img src="/images/case.jpg" height=100>
+<img src="/images/Case_3.png" height=100>
 </div>
 <br>
 **2022/09:** I initiated the [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), the first "public health" related student association in Tsinghua University. I was nominated as the **Founding Chair**.
 <div align=center>
-<img src="/images/Association.png" height=100>
+<img src="/images/association1.png" height=100>
 </div>
 <br>
 
