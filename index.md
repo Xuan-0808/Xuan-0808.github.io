@@ -7,17 +7,16 @@ layout: page
 <br>Here is **Xuan Li (李璇)**.
 <br>
 I am a master in [Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06). [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), Emeritus Director General of World Health Organization, is the Founding Dean of our school since 2020.
-<div align=center>
-<img src="/images/vanke.png" height=30>
-</div>
+
 <br>
 Before, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).
-<div align=center>
-<img src="/images/statistics.png" height=30>
-</div>
+
 <br>
 Here is my [Resume](./file/CV_2pages.pdf).
-
+<div align=center>
+<img src="/images/Schools.png" height=30>
+</div>
+<br>
 ## Research Interests
 I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
 
