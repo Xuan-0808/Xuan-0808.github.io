@@ -5,7 +5,7 @@ layout: page
 <!--<img src="https://i.postimg.cc/g0Fvn6PK/pic2.jpg" class="floatpic" wdith="500">-->
 ## About Me
 <br>Here is **Xuan Li (李璇)**.
-<img src="/images/award.jpg" class="floatpic" width="360" height="480">
+<img src="/images/award.jpg" class="floatpic">
 
 <br>
 I am a master in [Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06). [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), Emeritus Director General of World Health Organization, is the Founding Dean of our school since 2020.
