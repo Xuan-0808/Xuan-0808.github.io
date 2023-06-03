@@ -40,7 +40,7 @@ I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.ed
 <img src="/images/Case_3.png" height=100>
 </div>
 <br>
-**2022/09:** I initiated the [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), the first "public health" related student association in Tsinghua University. I was nominated as the **Founding Chair**.
+**2022/09:** I initiated the [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw), the first "public health" related student association in Tsinghua University. I was nominated as the **Founding President**.
 <div align=center>
 <img src="/images/association1.png" height=100>
 </div>
