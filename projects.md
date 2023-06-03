@@ -49,7 +49,7 @@ title: Research Projects
 
 <br>
 **My role:**
-- **Research assistant and co-author**;
+- **Research intern and co-author**;
 - Literature screening, data extraction, and data analysis.
 
 <div align=center>
@@ -57,24 +57,7 @@ title: Research Projects
 </div>
 <br>
 
-### 4. Strategic Consulting on “One Health” for Asian Infrastructure Investment Bank (AIIB)
-
-**Principal investigator:** Erik Berglof, Chief Economist at AIIB; Abigail Wright, Senior Secretariat Officer at AIIB.
-
-<br>
-**Project overview:** To structure a scope of “One Health” investment among 6 multilateral development banks (MDBs), including World Bank (WB), European Bank for Reconstruction and Development (EBRD), Asian Development Bank(ADB), Islamic Development Bank (IsDB), Inter-American Development Bank (IADB), and AIIB.
-
-<br>
-**My role:**
-- **Project core member (1/5)**;
-- Develop the analysis framework, identify AIIB’s role in furthering the One Health approach as a broader health lens, synthesize takeaways from One Health policies and practices across MDBs into recommendations.
-
-<div align=center>
-<img src="/images/AIIB.png" height=300>
-</div>
-<br>
-
-### 5. Research Programme on Transition from External Financing - Analytical Framework to guide country teams
+### 4. Research Programme on Transition from External Financing - Analytical Framework to guide country teams
 
 **Principal investigator:** [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), Tsinghua University, China; [Yingxi Zhao](https://www.tropicalmedicine.ox.ac.uk/team/yingxi-zhao), Oxford university, UK.
 
@@ -94,7 +77,7 @@ title: Research Projects
 </div>
 <br>
 
-### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
+### 5. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
 
 **Principal investigator:** Xuan Li (Me)
 
@@ -118,7 +101,7 @@ title: Research Projects
 </div>
 <br>
 
-### 7. Course Teaching: Applied Health Economics and Policy
+### 6. Course Teaching: Applied Health Economics and Policy
 
 **Course instructor:** [Antonio Trujillo](https://publichealth.jhu.edu/faculty/2086/antonio-j-trujillo), Johns Hopkins University, US
 
