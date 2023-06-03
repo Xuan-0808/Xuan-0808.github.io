@@ -30,7 +30,7 @@ I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.ed
 - **Sep 2020:** First Class Scholarship for Academic study of Renmin University of China (Top 5%).
 
 ## News and Updates
-**2023/05:** I'm attending [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) nominated as the **advisor of Chinese delegation**.
+**2023/05:** I attended [World Health Assembly](https://www.who.int/about/governance/world-health-assembly/seventy-sixth-world-health-assembly) in Geneva, Switzerland, nominated as the **advisor of Chinese delegation**.
 <div align=center>
 <img src="/images/WHA.PNG" height=100>
 </div>
