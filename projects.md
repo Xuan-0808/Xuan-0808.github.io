@@ -6,7 +6,7 @@ title: Research Projects
 
 ## Research Projects
 
-### 1. Africa Research, Implementation Science, and Education (ARISE)
+### 1. Africa Research, Implementation Science, and Education (ARISE), 2021.11-present
 
 **Principal investigator:** [Wafaie W. Fawzi](https://www.hsph.harvard.edu/profile/wafaie-w-fawzi/), Harvard university, US.
 
@@ -23,7 +23,7 @@ title: Research Projects
 </div>
 <br>
 
-### 2. The impact of COVID-19 on children and adolescents health globally
+### 2. The impact of COVID-19 on children and adolescents health globally, 2021.06-2023.06
 
 **Principal investigator:** [Zulfiqar A. Bhutta](https://www.sickkids.ca/en/staff/b/zulfiqar-bhutta/), Centre for Global Child Health, Canada; [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), Tsinghua University, China; [Li Jiang](https://cn.linkedin.com/in/%E5%8A%B1-%E8%92%8B-067a47ba/en), Centre for Global Child Health, Canada.
 
@@ -40,7 +40,7 @@ title: Research Projects
 </div>
 <br>
 
-### 3. Health workforce cohort scope review
+### 3. Health workforce cohort scope review, 2023.03-present
 
 **Principal investigator:** [Mike English](https://www.ndm.ox.ac.uk/team/mike-english), Oxford university, UK; [ATTAKRIT LECKCIVILIZE](https://www.tropicalmedicine.ox.ac.uk/team/attakrit-leckcivilize), Oxford university, UK; [Yingxi Zhao](https://www.tropicalmedicine.ox.ac.uk/team/yingxi-zhao), Oxford university, UK.
 
@@ -57,7 +57,7 @@ title: Research Projects
 </div>
 <br>
 
-### 4. Strategic Consulting on “One Health” for Asian Infrastructure Investment Bank (AIIB)
+### 4. Strategic Consulting on “One Health” for Asian Infrastructure Investment Bank (AIIB), 2022.03-2022.06
 
 **Principal investigator:** Erik Berglof, Chief Economist at AIIB; Abigail Wright, Senior Secretariat Officer at AIIB.
 
@@ -75,7 +75,7 @@ title: Research Projects
 <br>
 
 
-### 5. Research Programme on Transition from External Financing - Analytical Framework to guide country teams
+### 5. Research Programme on Transition from External Financing - Analytical Framework to guide country teams, 2021.10-2022.02
 
 **Principal investigator:** [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), Tsinghua University, China; [Yingxi Zhao](https://www.tropicalmedicine.ox.ac.uk/team/yingxi-zhao), Oxford university, UK.
 
@@ -95,7 +95,7 @@ title: Research Projects
 </div>
 <br>
 
-### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China
+### 6. Feasibility Analysis of Strengthening Self-health Management of the Aged Population through Health Education in Rural Areas of China, 2019.05-2020.05
 
 **Principal investigator:** Xuan Li (Me)
 
@@ -119,7 +119,7 @@ title: Research Projects
 </div>
 <br>
 
-### 7. Course Teaching: Applied Health Economics and Policy
+### 7. Course Teaching: Applied Health Economics and Policy, 2023.01-2023.04
 
 **Course instructor:** [Antonio Trujillo](https://publichealth.jhu.edu/faculty/2086/antonio-j-trujillo), Johns Hopkins University, US
 
