@@ -19,9 +19,12 @@ title: Publications
 
 - A systematic review of long-term outcomes after SARS-CoV-2 infection in children and adolescents<br>Li Jiang\*, **Xuan Li\***, Jia Nie, Kun Tang, Zulfiqar A. Bhutta<br>*PEDIATRICS* (Accepted)
 
+- Co-Occurrence of and Factors Associated with Health Risk Behaviors Among Adolescents: A Multi-Center Study in Sub-Saharan Africa, China, and India<br>**Xuan Li\***, Yadeta Dessie\*, Mary Mwanyika-Sando, Nega Assefa, Ourohiré Millogo, Adom Manu, Angela Chukwu, Justine Bukenya, Rutuja Patil, Siyu Zou, Hanxiyue Zhang, Lina Nurhussien, Amani Tinkasimile, Till Bärnighausen, Sachin Shinde, Wafaie W Fawzi\*\*, Kun Tang\*\*<br>*eClinicalMedicine* (Under Review)<br>[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4498426)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=042078025114064000073104126103065072008084020051087045067099000122061051063123034041019082005113003021075068115062070067009008121096085010110086029021091093040029004086090080071117014116006006029023113097009083032118123075077108103026006114084116094003070104023093023088087027080103086110084&EXT=pdf&INDEX=TRUE)
+
 - Predicting Pregnancy Termination with Key Factors Through Machine Learning Approaches: A Pooled Analysis of 51 Low- and Middle-Income Countries<br>**Xuan Li**, Qiwei He, Kun Tang<br>[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445182)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=321102020088080126080091103016099069053063020068087078105043108056112043023124122106089089053081007020027088103055070108091071093015006007068118003102106069006126087024061073047026053118006051010055048084020038013005105002100023117000086068090072090115019127125071089071024031026017097097017&EXT=pdf&INDEX=TRUE)
 
 - How we discuss AIDS in China: mapping the AIDS Week health campaign on social media<br>Haocan Sun, Rudong Zhang, **Xuan Li**, Kun Tang<br>*Journal of Medical Internet Research* (Under Review)<br>[[Full text]](https://preprints.jmir.org/preprint/49004)[[PDF]](https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-49004-submitted.pdf)
+
 
 ## Conference Paper and Graduation thesis
 - Classification of Depression on Weibo Based on Convolutional Neural Network<br>Zihan Zhao, **Xuan Li**, Jing Zhou<br>the 18th National Symposium of Statistics Research in China
