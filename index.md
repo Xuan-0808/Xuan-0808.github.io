@@ -14,7 +14,7 @@ I am a master in [Vanke School of Public Health, Tsinghua University](https://vs
 Before, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).
 
 <br>
-Here is my [Resume](./file/CV_2pages.pdf).
+Here is my [Resume](./file/CV_XuanLi.pdf).
 <div align=center>
 <img src="/images/Schools.png" height=30>
 </div>
