@@ -30,7 +30,7 @@ I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.ed
 - **Sep 2020:** First Class Scholarship for Academic study of Renmin University of China (Top 5%).
 
 ## News and Updates
-**2023/07:** I'm excited to receive the internship offer from UNICEF Supply Division, Denmark. Hopefully I'll arrive Copenhagen within next month.
+**2023/07:** Happy to receive the internship offer from UNICEF Supply Division, Denmark. Hopefully I'll arrive Copenhagen within next month.
 <div align=center>
 <img src="/images/unicef.jpg" height=100>
 </div>
