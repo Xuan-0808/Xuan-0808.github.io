@@ -13,12 +13,16 @@ I am a master in [Vanke School of Public Health, Tsinghua University](https://vs
 <br>
 Before, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).
 
+<div style="display:none">
 <br>
 Here is my [Resume](./file/CV_XuanLi.pdf).
+</div>
+
 <div align=center>
 <img src="/images/Schools.png" height=30>
 </div>
 <br>
+
 ## Research Interests
 I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
 
