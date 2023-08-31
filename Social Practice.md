@@ -13,20 +13,17 @@ title: Social Practice
 </div>
 <br>
 
-### 2. Tsinghua University Student Association of Public Health, 2022.09-2023.06
-- **Founding president** of [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw).
-- First "Public Health" platform for young people with interdisciplinary backgrounds in Tsinghua University.
-- Lecturers, guests and/or instructors included [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), [Wannian Liang](https://vsph.tsinghua.edu.cn/en/info/1010/1048.htm), [Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm), [Erasmus Morah](http://www.unaids.org.cn/page145?article_id=1221&_l=en), [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), and so on.
+### 2. UNICEF internship on innovation and digital health, 2023.08-2024.01
+- Projects specialist at Product Innovation Centre of UNICEF Supply Division (Copenhagen, Denmark).
 <div align=center>
-<img src="/images/association_final.png"  height="200">
+<img src="/images/unicef.jpg" height=100>
 </div>
 <br>
 
-### 3. Beijing Olympic Winter Games, 2021.12-2022.03
-- **Volunteer** in the COVID-19 Liaison Office.
-- Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
+### 3. Global Health Deep Dive by Gates Foundation, 2022.04
+- On behalf of Tsinghua students to participate in "Global Health" comminations with Bill Gates, public health professors, and around 30 postgraduates around the world.
 <div align=center>
-<img src="/images/winter.png"  height="200">
+<img src="/images/Gates.png"  height="200">
 </div>
 <br>
 
@@ -38,10 +35,12 @@ title: Social Practice
 </div>
 <br>
 
-### 5. Global Health Deep Dive by Gates Foundation, 2022.04
-- On behalf of Tsinghua students to participate in "Global Health" comminations with Bill Gates, public health professors, and around 30 postgraduates around the world.
+### 5. Tsinghua University Student Association of Public Health, 2022.09-2023.06
+- **Founding president** of [Tsinghua University Student Association of Public Health](https://mp.weixin.qq.com/s/BozdTm2_fw8OK4m6T4Hkyw).
+- First "Public Health" platform for young people with interdisciplinary backgrounds in Tsinghua University.
+- Lecturers, guests and/or instructors included [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), [Wannian Liang](https://vsph.tsinghua.edu.cn/en/info/1010/1048.htm), [Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm), [Erasmus Morah](http://www.unaids.org.cn/page145?article_id=1221&_l=en), [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm), and so on.
 <div align=center>
-<img src="/images/Gates.png"  height="200">
+<img src="/images/association_final.png"  height="200">
 </div>
 <br>
 
@@ -53,7 +52,15 @@ title: Social Practice
 </div>
 <br>
 
-### 7. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
+### 7. Beijing Olympic Winter Games, 2021.12-2022.03
+- **Volunteer** in the COVID-19 Liaison Office.
+- Serve as the team leader of the Nucleic Acid Testing Team to help COVID-19 prevention.
+<div align=center>
+<img src="/images/winter.png"  height="200">
+</div>
+<br>
+
+### 8. Beijing Boya Wisdom Technology Co., LTD, 2020.08-2020.11
 - **Intern**.
 - Produce courses related to Big Data and Artificial Intelligence (mainly related to natural language processing).
 <div align=center>
