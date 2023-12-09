@@ -14,7 +14,8 @@ title: Social Practice
 <br>
 
 ### 2. UNICEF internship on innovation and digital health, 2023.08-2024.01
-- Projects specialist at Product Innovation Centre of UNICEF Supply Division (Copenhagen, Denmark).
+- Project Management Intern at Product Innovation Centre of UNICEF Supply Division (Copenhagen, Denmark).
+- Work for [UNICEF App Catalogue](https://www.unicef.org/appcatalogue/), which includes quality apps for children's well-being, spanning health, education, nutrition, and sanitation.
 <div align=center>
 <img src="/images/unicef.jpg" height=100>
 </div>
