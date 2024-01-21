@@ -15,7 +15,7 @@ title: Research Projects
 
 <br>
 **My role:**
-  - **Research assistant** to collect prospective cohort data and lead digital interventions in China;
+  - **Research assistant** in China research team to collect prospective cohort data and lead digital interventions in China;
   - **Lead author** of the cross-country research about "Co-occurrence of adolescent health risk behavior in Sub-Saharan Africa, India and China".
 
 <div align=center>
