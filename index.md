@@ -35,7 +35,7 @@ My current research focuses on **global health**, **maternal and child health**,
 - **Sep 2020:** First Class Scholarship for Academic study of Renmin University of China (Top 5%).
 
 ## News and Updates
-**2024/02:** I have confirmed the admission offer of DPhil program of Population Health in Oxford University. In the next three years, my research will focus on "Reproductive factors and breast cancer risk in diverse populations".
+**2024/02:** I have confirmed the admission offer of DPhil program of Population Health in Oxford University. In the next three years, my research will primarily focus on "Reproductive factors and breast cancer risk in diverse populations".
 <div align=center>
 <img src="/images/Oxford.PNG" height=100>
 </div>
