@@ -8,10 +8,10 @@ layout: page
 <img src="/images/award.jpg" class="floatpic">
 
 <br>
-I am a master in [Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06). [Margaret Chan](https://vsph.tsinghua.edu.cn/en/info/1010/1046.htm), Emeritus Director General of World Health Organization, is the Founding Dean of our school since 2020.
+I am a master in [Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06). 
 
 <br>
-Before, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).
+Prior to this, I was a bachelor in [School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/) (2017.09-2021.06).
 
 <div style="display:none">
 <br>
@@ -24,7 +24,7 @@ Here is my [Resume](./file/CV_XuanLi.pdf).
 <br>
 
 ## Research Interests
-I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.edu.cn/en/info/1010/1047.htm). My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
+My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
 
 ## Awards and Scholarships
 
@@ -35,6 +35,9 @@ I am extremely fortunate to be supervised by [Kun Tang](https://vsph.tsinghua.ed
 - **Sep 2020:** First Class Scholarship for Academic study of Renmin University of China (Top 5%).
 
 ## News and Updates
+**2024/02:** I have confirmed the admission offer of DPhil program of Population Health in Oxford University. In the next three years, my research will focus on "Reproductive factors and breast cancer risk in diverse populations".
+
+
 **2023/09:** Arriving Copehhagen, Denmark now! Happy to take the intern for UNICEF Supply Division.
 <div align=center>
 <img src="/images/unicef.jpg" height=100>
