@@ -36,8 +36,10 @@ My current research focuses on **global health**, **maternal and child health**,
 
 ## News and Updates
 **2024/02:** I have confirmed the admission offer of DPhil program of Population Health in Oxford University. In the next three years, my research will focus on "Reproductive factors and breast cancer risk in diverse populations".
-
-
+<div align=center>
+<img src="/images/Oxford.PNG" height=100>
+</div>
+<br>
 **2023/09:** Arriving Copehhagen, Denmark now! Happy to take the intern for UNICEF Supply Division.
 <div align=center>
 <img src="/images/unicef.jpg" height=100>
