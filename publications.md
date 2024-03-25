@@ -25,7 +25,7 @@ title: Publications
 [2]	Sun H, Zhang R, **Li X**, Tang K. How we discuss AIDS in China: mapping the AIDS Week health campaign on social media. (Under Review in Journal of Medical Internet Research)[[Full text]](https://preprints.jmir.org/preprint/49004)[[PDF]](https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-49004-submitted.pdf)
 
 
-## Conference Paper and Graduation thesis
+## Conference Paper and Graduation Dissertation
 [1] Zhao Z, **Li X**, Zhou J. Classification of Depression on Weibo Based on Convolutional Neural Network. 18th National Symposium of Statistics Research in China.
 
 [2] **Li X**, Fan X, Sun Y. Heterogeneous Cox Proportional Risk Model for Identifying Subgroup Structures in Highdimensional Data. (Undergraduate minor dissertation, 2021 Outstanding Undergraduate Graduation Thesis of Beijing, Top 1%.)
