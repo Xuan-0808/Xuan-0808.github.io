@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- Co-Occurrence of and Factors Associated with Health Risk Behaviors Among Adolescents: A Multi-Center Study in Sub-Saharan Africa, China, and India<br>**Xuan Li\***, Yadeta Dessie\*, Mary Mwanyika-Sando, Nega Assefa, Ourohiré Millogo, Adom Manu, Angela Chukwu, Justine Bukenya, Rutuja Patil, Siyu Zou, Hanxiyue Zhang, Lina Nurhussien, Amani Tinkasimile, Till Bärnighausen, Sachin Shinde, Wafaie W Fawzi\*\*, Kun Tang\*\*<br>*eClinicalMedicine* (Under Review)<br>[[Full text]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00104-4/fulltext)[[PDF]](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2824%2900104-4)
+- Co-Occurrence of and Factors Associated with Health Risk Behaviors Among Adolescents: A Multi-Center Study in Sub-Saharan Africa, China, and India<br>**Xuan Li\***, Yadeta Dessie\*, Mary Mwanyika-Sando, Nega Assefa, Ourohiré Millogo, Adom Manu, Angela Chukwu, Justine Bukenya, Rutuja Patil, Siyu Zou, Hanxiyue Zhang, Lina Nurhussien, Amani Tinkasimile, Till Bärnighausen, Sachin Shinde, Wafaie W Fawzi\*\*, Kun Tang\*\*<br>*eClinicalMedicine*<br>[[Full text]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00104-4/fulltext)[[PDF]](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2824%2900104-4)
 
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
 <br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>*JMIR public health and surveillance*<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
