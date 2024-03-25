@@ -6,6 +6,8 @@ title: Publications
 
 ## Publications
 
+- Co-Occurrence of and Factors Associated with Health Risk Behaviors Among Adolescents: A Multi-Center Study in Sub-Saharan Africa, China, and India<br>**Xuan Li\***, Yadeta Dessie\*, Mary Mwanyika-Sando, Nega Assefa, Ourohiré Millogo, Adom Manu, Angela Chukwu, Justine Bukenya, Rutuja Patil, Siyu Zou, Hanxiyue Zhang, Lina Nurhussien, Amani Tinkasimile, Till Bärnighausen, Sachin Shinde, Wafaie W Fawzi\*\*, Kun Tang\*\*<br>*eClinicalMedicine* (Under Review)<br>[[Full text]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00104-4/fulltext)[[PDF]](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2824%2900104-4)
+
 - Predicting risky sexual behavior among college students through machine learning approaches: cross-sectional analysis of individual data from 1264 universities in 31 provinces in China
 <br>**Xuan Li**, Hanxiyue Zhang, Shuangyu Zhao, Kun Tang<br>*JMIR public health and surveillance*<br>[[Full text]](https://pubmed.ncbi.nlm.nih.gov/36696166/)[[PDF]](https://publichealth.jmir.org/2023/1/e41162/PDF)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/36696166/)
 
@@ -18,8 +20,6 @@ title: Publications
 - Epidemiology, clinical features, and outcomes of multisystem inflammatory syndrome in children (MIS-C) and adolescents—a live systematic review and meta-analysis<br>Li Jiang, Kun Tang, Omar Irfan, **Xuan Li**, Enyao Zhang, Zulfiqar Bhutta<br>*Current Pediatrics Reports*<br>[[Full text]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/)[[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/pdf/40124_2022_Article_264.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/35540721/)
 
 ## Under Review
-
-- Co-Occurrence of and Factors Associated with Health Risk Behaviors Among Adolescents: A Multi-Center Study in Sub-Saharan Africa, China, and India<br>**Xuan Li\***, Yadeta Dessie\*, Mary Mwanyika-Sando, Nega Assefa, Ourohiré Millogo, Adom Manu, Angela Chukwu, Justine Bukenya, Rutuja Patil, Siyu Zou, Hanxiyue Zhang, Lina Nurhussien, Amani Tinkasimile, Till Bärnighausen, Sachin Shinde, Wafaie W Fawzi\*\*, Kun Tang\*\*<br>*eClinicalMedicine* (Under Review)<br>[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4498426)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=042078025114064000073104126103065072008084020051087045067099000122061051063123034041019082005113003021075068115062070067009008121096085010110086029021091093040029004086090080071117014116006006029023113097009083032118123075077108103026006114084116094003070104023093023088087027080103086110084&EXT=pdf&INDEX=TRUE)
 
 - Predicting Pregnancy Termination with Key Factors Through Machine Learning Approaches: A Pooled Analysis of 51 Low- and Middle-Income Countries<br>**Xuan Li**, Qiwei He, Kun Tang<br>*JMIR public health and surveillance* (Under Review)<br>[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445182)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=321102020088080126080091103016099069053063020068087078105043108056112043023124122106089089053081007020027088103055070108091071093015006007068118003102106069006126087024061073047026053118006051010055048084020038013005105002100023117000086068090072090115019127125071089071024031026017097097017&EXT=pdf&INDEX=TRUE)
 
