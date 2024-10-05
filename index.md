@@ -18,7 +18,7 @@ Here is my [Resume](./file/CV_XuanLi.pdf).
 </div>
 
 <div align=center>
-<img src="/images/Oxford.png" height=20>
+<img src="/images/Oxford.PNG" height=20>
 </div>
 <br>
 
