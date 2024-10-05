@@ -23,16 +23,19 @@ Here is my [Resume](./file/CV_XuanLi.pdf).
 <br>
 
 ## Research Interests
-My current research focuses on **global health**, **maternal and child health**, **sexual and reproductive health**, and **health big data**.
+My current research focuses on **women's and children's health** and **health big data**.
 
 ## Awards and Scholarships
 
+- **Sep 2024 - Jun 2027:** Clarendon Scholarship at University of Oxford (Full funding for the DPhil program)
+- **Jun 2024:** Outstanding Graduates of Tsinghua University (Top 2%)
 - **Dec 2023:** National Scholarship (Top 1%)
 - **Dec 2022:** Wangdazhong President Scholarship (Top 0.5%, one of the highest awards in Tsinghua University).
 - **Dec 2022:** First-class Scholarship for Comprehensive Excellence of Tsinghua University (Top 5%).
 - **Jun 2021:** Outstanding Undergraduate Graduation Thesis of Beijing (Top 1%).
 - **Sep 2020:** First Class Scholarship for Academic study of Renmin University of China (Top 5%).
 
+<div style="display:none">
 ## News and Updates
 **2024/02:** I have confirmed the admission offer of DPhil program of Population Health in Oxford University. In the next three years, my research will primarily focus on "Reproductive factors and breast cancer risk in diverse populations".
 <div align=center>
@@ -59,6 +62,7 @@ My current research focuses on **global health**, **maternal and child health**,
 <img src="/images/association1.png" height=100>
 </div>
 <br>
+</div>
 
 ## Contact Me
 
