@@ -7,10 +7,10 @@ layout: page
 <br>Here is **Xuan Li (李璇)**.
 <img src="/images/award.jpg" class="floatpic">
 
-<br>I am currently a Probationer Research Student (PRS) at University of Oxford, studying within the **Nuffield Department of Population Health**, affiliated with **St Edmund Hall**, and supported by the **Clarendon Scholarship**.
+<br>I am currently a Probationer Research Student (PRS) at **[University of Oxford](https://www.ox.ac.uk/)**, studying within the **[Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/)**, affiliated with **[St Edmund Hall](https://www.seh.ox.ac.uk/)**, and supported by the **[Clarendon Scholarship](https://www.ox.ac.uk/clarendon)**.
 
 <br>
-Prior to this, I am a master in **[Vanke School of Public Health, Tsinghua University]**(https://vsph.tsinghua.edu.cn/index.htm) (2021.09-2024.06), and a bachelor in **[School of Statistics in Renmin University of China]**(http://stat.ruc.edu.cn/) (2017.09-2021.06).
+Prior to this, I am a master in **[Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm)** (2021.09-2024.06), and a bachelor in **[School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/)** (2017.09-2021.06).
 
 <div style="display:none">
 <br>
@@ -18,7 +18,7 @@ Here is my [Resume](./file/CV_XuanLi.pdf).
 </div>
 
 <div align=center>
-<img src="/images/Oxford.png" height=30>
+<img src="/images/Oxford.png" height=20>
 </div>
 <br>
 
