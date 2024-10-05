@@ -9,8 +9,7 @@ layout: page
 
 <br>I am currently a Probationer Research Student (PRS) at **[University of Oxford](https://www.ox.ac.uk/)**, studying within the **[Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/)**, affiliated with **[St Edmund Hall](https://www.seh.ox.ac.uk/)**, and supported by the **[Clarendon Scholarship](https://www.ox.ac.uk/clarendon)**.
 
-
-Prior to this, I am a master in **[Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm)** (2021.09-2024.06), and a bachelor in **[School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/)** (2017.09-2021.06).
+<br>Prior to this, I am a master in **[Vanke School of Public Health, Tsinghua University](https://vsph.tsinghua.edu.cn/index.htm)** (2021.09-2024.06), and a bachelor in **[School of Statistics in Renmin University of China](http://stat.ruc.edu.cn/)** (2017.09-2021.06).
 
 <div style="display:none">
 <br>
@@ -28,7 +27,7 @@ My current research focuses on **women's and children's health** and **health bi
 ## Awards and Scholarships
 
 - **Sep 2024 - Jun 2027:** Clarendon Scholarship at University of Oxford (Full funding for the DPhil program)
-- **Jun 2024:** Outstanding Graduates of Tsinghua University (Top 2%)
+- **Jun 2024:** Outstanding Graduate of Tsinghua University (Top 2%)
 - **Dec 2023:** National Scholarship (Top 1%)
 - **Dec 2022:** Wangdazhong President Scholarship (Top 0.5%, one of the highest awards in Tsinghua University).
 - **Dec 2022:** First-class Scholarship for Comprehensive Excellence of Tsinghua University (Top 5%).
