@@ -28,16 +28,10 @@ title: Publications
 [6]	Jiang, L., Tang, K., Irfan, O., **Li, X.**, Zhang, E., & Bhutta, Z. (2022). Epidemiology, Clinical Features, and Outcomes of Multisystem Inflammatory Syndrome in Children (MIS-C) and Adolescents-a Live Systematic Review and Meta-analysis. Current pediatrics reports.
 <br>
 [[Full text]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/)[[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/pdf/40124_2022_Article_264.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/35540721/)
-
-## Under Review
-
-[1]	**Li, X.**, He Q., & Tang K. Predicting Pregnancy Termination with Key Factors Through Machine Learning Approaches: A Pooled Analysis of 51 Low- and Middle-Income Countries. (Under Review in JMIR public health and surveillance) 
-<br>
-[[Full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445182)[[PDF]](https://deliverypdf.ssrn.com/delivery.php?ID=321102020088080126080091103016099069053063020068087078105043108056112043023124122106089089053081007020027088103055070108091071093015006007068118003102106069006126087024061073047026053118006051010055048084020038013005105002100023117000086068090072090115019127125071089071024031026017097097017&EXT=pdf&INDEX=TRUE)
 <br><br>
-[2]	Sun H, Zhang R, **Li X**, Tang K. How we discuss AIDS in China: mapping the AIDS Week health campaign on social media. (Under Review in Journal of Medical Internet Research)
+[7] Sun, Haocan, et al. "Mapping the AIDS Week Health Campaign on Social Media in China: A Mixed-Method Study." Health Communication (2024): 1-17. 
 <br>
-[[Full text]](https://preprints.jmir.org/preprint/49004)[[PDF]](https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-49004-submitted.pdf)
+[[Full text]](https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2440538#abstract)[[PDF]](https://www.tandfonline.com/doi/epdf/10.1080/10410236.2024.2440538?needAccess=true)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/39668806/)
 
 ## Conference Paper and Graduation Dissertation
 [1] Zhao Z, **Li X**, Zhou J. Classification of Depression on Weibo Based on Convolutional Neural Network. 18th National Symposium of Statistics Research in China.
