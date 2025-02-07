@@ -8,7 +8,7 @@ title: Publications
 
 [1]	**Li X\***, Dessie Y\*, Mwanyika-Sando M, et al. Co-occurrence of and factors associated with health risk behaviors among adolescents: a multi-center study in sub-Saharan Africa, China, and India[J]. eClinicalMedicine, 2024, 70.
 <br>
-[[Full text]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00104-4/fulltext)[[PDF]](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2824%2900104-4)
+[[Full text]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00104-4/fulltext)[[PDF]](https://www.thelancet.com/action/showPdf?pii=S2589-5370%2824%2900104-4)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/38533342/)
 <br><br>
 [2]	**Li, X.**, Zhang, H., Zhao, S., & Tang, K. Predicting Risky Sexual Behavior Among College Students Through Machine Learning Approaches: Cross-sectional Analysis of Individual Data From 1264 Universities in 31 Provinces in China. JMIR public health and surveillance.
 <br>
