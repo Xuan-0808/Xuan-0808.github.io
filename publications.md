@@ -33,7 +33,7 @@ title: Publications
 <br>
 [[Full text]](https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2440538#abstract)[[PDF]](https://www.tandfonline.com/doi/epdf/10.1080/10410236.2024.2440538?needAccess=true)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/39668806/)
 
-## Conference Paper and Graduation Dissertation
+## Conference Paper and Awards
 [1] Zhao Z, **Li X**, Zhou J. Classification of Depression on Weibo Based on Convolutional Neural Network. 18th National Symposium of Statistics Research in China.
 <br><br>
 [2] **Li X**, Fan X, Sun Y. Heterogeneous Cox Proportional Risk Model for Identifying Subgroup Structures in Highdimensional Data. (Undergraduate minor dissertation, 2021 Outstanding Undergraduate Graduation Thesis of Beijing, Top 1%.)
