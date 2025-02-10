@@ -29,7 +29,7 @@ title: Publications
 <br>
 [[Full text]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/)[[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072767/pdf/40124_2022_Article_264.pdf)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/35540721/)
 <br><br>
-[7] Sun, Haocan, et al. "Mapping the AIDS Week Health Campaign on Social Media in China: A Mixed-Method Study." Health Communication (2024): 1-17. 
+[7] Sun H, Zhang R, **Li X,** et al. Mapping the AIDS Week Health Campaign on Social Media in China: A Mixed-Method Study[J]. Health Communication, 2024: 1-17.
 <br>
 [[Full text]](https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2440538#abstract)[[PDF]](https://www.tandfonline.com/doi/epdf/10.1080/10410236.2024.2440538?needAccess=true)[[Medline]](https://pubmed.ncbi.nlm.nih.gov/39668806/)
 
